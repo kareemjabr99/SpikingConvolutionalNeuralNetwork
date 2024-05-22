@@ -1,8 +1,13 @@
 # SpikingConvolutionalNeuralNetwork
 Workout/Fitness exercises classification using Spiking Convolutional Neural Network and Event-based Imaging
 
+## Thesis Paper
+[Link to Thesis](https://drive.google.com/file/d/1P8NsS93l0_TpyfWFFlPl8qo1wWvdCkCj/view?usp=sharing)
+
 ## Project Description
 This project explores the use of Spiking Convolutional Neural Networks (SCNNs) for action recognition with a focus on workout and fitness exercises classification. SCNNs leverage the power of event-based imaging to efficiently process temporal data, mimicking the neural activities in the brain.
+
+![Graphical Abstract](graphicalAbstract.001.png)
 
 ## Objectives
 - Implement a SCNN model for recognizing different workout exercises.
